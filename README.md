@@ -1,7 +1,7 @@
-# SWE_SocialNetwork - BlueCouch
+# <b> SWE_SocialNetwork - BlueCouch </b>
 Soziales Netzwerk - "BlueCouch" - für die Vorlesung Software-Engineering der Studienrichtung Informatik und Wirtschaftsinformatik der Universität Wien
 
-Mitglieder:
-Raphael Kolhaupt
-Christian Pfneisl
-Patrik Misurec
+<b> Mitglieder:</b> <br>
+Raphael Kolhaupt <br>
+Christian Pfneisl <br>
+Patrik Misurec <br>
