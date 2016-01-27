@@ -1,0 +1,25 @@
+------------------------------
+Email:				Password:
+user01@test.com		123
+user02@test.com		123
+user03@test.com		123
+user04@test.com		123
+user05@test.com		123
+user06@test.com		123
+user07@test.com		123
+user08@test.com		123
+user09@test.com		123
+user10@test.com		123
+
+patrik@test.com		123
+mohamed@test.com	123
+christian@test.com	123
+
+admin01@test.com	123
+admin02@test.com	123
+
+forscher01@test.com	123
+forscher02@test.com	123
+------------------------------
+Inhalt:
+User - je ca 10 Beiträge, ca 2 gemeldet, je ca 10 Freunde in diversen Gruppen
